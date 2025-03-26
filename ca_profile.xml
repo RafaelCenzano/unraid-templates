@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/RafaelCenzano/unraid-templates/refs/heads/main/avatar.jpeg</Icon>
+  <Profile>
+    Hosting templates for applications I personally use and thing others might find useful. I am also working on developing some self hosted free and open source programs myself.
+  </Profile>
+  <DonateLink>https://github.com/sponsors/RafaelCenzano</DonateLink>
+  <DonateText>If you like my work please consider Donating.</DonateText>
+</Maintainer>
